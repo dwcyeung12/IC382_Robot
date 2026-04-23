@@ -1,5 +1,5 @@
 # IC382_Robot
-
+Code for the base standard reference design model
 Python scripts for teleoperation, omni-wheel drive control, IMU/ultrasonic serial integration, and cube face detection.
 
 ## Repository contents

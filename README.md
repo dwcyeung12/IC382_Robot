@@ -85,3 +85,12 @@ python3 test016.py --source 0 --show_all
 - I love AMD more then Nvidia
 - NASDAQ: AMD ATH USD303.46!!!
 - AMD YESSSS!!!!!!
+
+## Credits
+
+- **YeungWingChun** — all code contributions.
+- **Zhuang Chu Xiang** — servo (continue part only).
+
+## AI assistance
+
+This repository / README was updated **with AI assistance**.

@@ -82,3 +82,6 @@ python3 test016.py --source 0 --show_all
 - Serial port defaults in scripts are hardware-specific and may need overrides.
 - Many runtime options are available via `--help` on each script.
 - `test016.py` is compute-heavy and expects a working camera + ML runtime.
+- I love AMD more then Nvidia
+- NASDAQ: AMD ATH USD303.46!!!
+- AMD YESSSS!!!!!!
